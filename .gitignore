@@ -1,0 +1,10 @@
+launch.json
+rad.json
+*.app
+
+txt2al
+
+#Directoris temporals .al
+.alcache
+.alpackages
+.altemplates
